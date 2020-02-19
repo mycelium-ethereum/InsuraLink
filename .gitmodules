@@ -1,0 +1,12 @@
+[submodule "InsuraLink-Frontend"]
+	path = InsuraLink-Frontend
+	url = https://github.com/securedatalinks/InsuraLink-Frontend.git
+[submodule "insuralink-hardware"]
+	path = insuralink-hardware
+	url = https://github.com/securedatalinks/insuralink-hardware.git
+[submodule "insuralink-external-initiator"]
+	path = insuralink-external-initiator
+	url = https://github.com/securedatalinks/insuralink-external-initiator.git
+[submodule "insuralink-contracts"]
+	path = insuralink-contracts
+	url = https://github.com/securedatalinks/insuralink-contracts.git
